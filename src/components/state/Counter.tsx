@@ -1,3 +1,5 @@
+// simple counter with useReducer
+
 import { useReducer } from 'react'
 
 type CounterState = {
